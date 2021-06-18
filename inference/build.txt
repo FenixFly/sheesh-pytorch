@@ -1,0 +1,11 @@
+apt-get update && apt-get install -y wget
+pip install --upgrade pip
+pip install opencv-python
+pip install Pillow scipy scikit-image scikit-learn sklearn
+pip install requests numpy torch torchvision torchmetrics pytorch-lightning
+pip install pandas
+pip install imgaug natsort seaborn statsmodels tqdm wfdb
+echo PYTHON PACKAGES INSTALLED
+mkdir -p /tmp/model
+wget https://github.com/FenixFly/Vasiliev-labMatrix/raw/master/epoch%3D37-Validation_F1%3D0.8927.ckpt
+mv epoch=37-Validation_F1=0.8927.ckpt /tmp/model/model.ckpt
