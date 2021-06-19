@@ -37,7 +37,7 @@
 
 ### Бэкенд
 
-Для запуска бэкенда соберите солюшен с помощью Visual Studio [backend/httpserver-bin-folder-source/CardioSpike.sln](backend/httpserver-bin-folder-source/CardioSpike.sln) и запустите
+Подробное описание запуска бэкенда [backend/README.md](backend/README.md)
 
 ### Инференс
 
