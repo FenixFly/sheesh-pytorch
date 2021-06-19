@@ -1,0 +1,3 @@
+<%@ Page Inherits="CardioSpike.BaseHandler" %>
+
+
