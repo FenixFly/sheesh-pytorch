@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "name": "Иванов И.И.",
+  "age": 30,
+  "lastRgTimeString": "1.01.2020",
+  "risk": 50,
+  "photo": "https://cdn.quasar.dev/img/avatar.png",
+  "rhythmograms": [
+    {
+      "id": 1,
+      "timeString": "1.01.2020",
+      "risk": 50
+    },
+    {
+      "id": 2,
+      "timeString": "2.01.2020",
+      "risk": 10
+    },
+    {
+      "id": 3,
+      "timeString": "3.01.2020",
+      "risk": 20
+    }
+  ]
+}

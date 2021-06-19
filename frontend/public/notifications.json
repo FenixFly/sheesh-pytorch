@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "icon": "https://cardiospike.ip3.ru/test.png",
+    "text": "оповещение 1",
+    "subText": "случилось что-то",
+    "timeString": "1.01.2020",
+    "link": "/patient/1"
+  },
+  {
+    "id": 2,
+    "icon": "https://cardiospike.ip3.ru/test.png",
+    "text": "оповещение 2",
+    "subText": "случилось что-то еще",
+    "timeString": "1.01.2020",
+    "link": "/patient/2"
+  }
+]
