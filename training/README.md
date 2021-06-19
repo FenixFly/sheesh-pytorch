@@ -38,7 +38,7 @@ First, ensure that the project has the following folder structure:
 `splits` - folder with splits for cross-validation
 
 ### Making cross-validation splits (optional)
-Before running the training you need to generate CV split and configureation file. This, however, optional. You can reuse existing folds and `config_cardiospike.cfg` from the training root. Make sure that the config file has correct relative paths
+Before running the training you need to generate CV split and configuration file. However, it is optional. You can reuse existing folds and `config_cardiospike.cfg` from the training root. Make sure that the config file has correct relative paths
 
 For making the splits, open `helpers/make_splits.py`, edit IO paths and run. No command line args are required
 
