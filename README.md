@@ -33,11 +33,11 @@
 
 ### Фронтенд
 
-
+Подробное описание запуска фронтенда в [frontend/README.md](frontend/README.md)
 
 ### Бэкенд
 
-Подробное описание запуска фронтенда в [frontend/README.md](frontend/README.md)
+Для запуска бэкенда соберите солюшен с помощью Visual Studio [backend/httpserver-bin-folder-source/CardioSpike.sln](backend/httpserver-bin-folder-source/CardioSpike.sln) и запустите
 
 ### Инференс
 
