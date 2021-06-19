@@ -1,4 +1,4 @@
-# Trainig scripts for Cardiospike project
+# Training scripts for Cardiospike project
 
 ## Structure of the README
 
